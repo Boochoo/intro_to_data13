@@ -1,0 +1,1 @@
+Exercises from chapters 1-3 of Data Structures and Algorithms with Javascript by Michael McMillan.
